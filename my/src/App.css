@@ -1,0 +1,69 @@
+  * {
+    padding: 0;
+    margin: 0;
+  }
+.App {
+  color: black;
+}
+.header{
+  height: 60px;
+  background-color: #16cbe6;
+}
+.inner_c{
+  width: 1000px;
+  margin: 0 auto;
+}
+.logo{
+  display: block;
+  float: left;
+  margin-right: 100px;
+  color: white;
+  font-size: 22px;
+  font-family: "MicroSoft YaHei";
+  height: 60px;
+  font-size: 22px;
+  line-height: 60px;
+}
+.header .nav{
+  float: left;
+  width:500px;
+  height: 60px;
+}
+.header .nav ul{
+  list-style: none;
+}
+.header .nav ul li{
+  float: left;
+  width:90px;
+  height: 60px;
+  line-height: 60px;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+}
+.header .btn{
+  padding-top: 15px;
+}
+.header .button{
+  margin-right: 10px;
+  height: 30px;
+  width: 60px;
+  border: none;
+  border-radius: 5px;
+  background-color: #0fa6bc;
+  color: white;
+}
+.content{
+  margin-top: 50px;
+  margin-bottom: 60px;
+  height: 300px;
+  border: 1px solid #888;
+}
+.footer{
+  height: 260px;
+  background: #000
+}
+.footer .copyright{
+  color: white
+
+}
