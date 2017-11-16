@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.App {
+
+}
+.inner_c{
+  width:80%;
+  margin: 0 auto;
+}
+.header{
+  height: 70px;
+  background-color: #16cbe6;
+}
+.header h1{
+    float: left;
+    color: #fff;
+    font-family: 'Open Sans Condensed', sans-serif;
+    line-height: 70px;
+    margin-right: 100px;
+}
+.header ul{
+  list-style: none;
+}
+.header ul li{
+    float: left;
+    width: 100px;
+    color: #fff;
+    line-height: 70px;
+    text-align: right;
+}
+.header .nav{
+  float: left
+}
